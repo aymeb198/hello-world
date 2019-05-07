@@ -1,3 +1,3 @@
 # hello-world
 just anothor repostery
-hi smilly face 999 ilike being a game dev
+hi i just did a hello_world script
